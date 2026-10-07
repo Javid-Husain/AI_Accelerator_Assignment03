@@ -1,0 +1,5 @@
+.venv/
+*.pt
+*.pth
+*.zip
+data/
